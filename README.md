@@ -12,4 +12,4 @@ Extract titles and other texts string to the string resource
 
 ## App Showcase
 
-You can view the app demo video [here](screendata/Animately_app.mp4).
+You can view the app demo video [here](screendata/Animately_app.gif).
